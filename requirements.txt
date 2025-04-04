@@ -1,0 +1,5 @@
+python-binance==1.0.16
+python-telegram-bot==13.7
+websockets==10.0
+python-dotenv==0.19.2
+requests==2.26.0
